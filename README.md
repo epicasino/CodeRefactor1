@@ -3,9 +3,9 @@
 ## Description
 
 - I undertook this project in order to improve my concisiveness in HTML and CSS.
-- Solved an unfunctioning navbar and unclear code.
+- Solved an unfunctional navbar and unclear code.
 - The project proved as an important lesson on code semantics and consolidating CSS to gain further clarification on the page's styling.
 
 ## Installation
 
-No installation is needed to see the page. Access via GitPages.
+No installation is needed to see the page. Access via [GitPages](https://github.com/epicasino/CodeRefactor1).
